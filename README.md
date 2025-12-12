@@ -31,7 +31,7 @@ This project helps HR teams analyze and monitor:
 
 
 
-## 📁 Dataset Included
+📁 Dataset Included
 
 1. employee_data.csv – employee details  
 2. attendance.csv– daily check-in/out records  
